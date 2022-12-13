@@ -10,4 +10,5 @@ Most of you probably asking, is this allowed and why create this? Well, yes it i
 
 This repository was meant to 
 > ⏩ Accelerate the creation of 3rd-party application that use Salad API! (It would certainly bring a interesting competition! And not to mention, showcasing their work on Salad Discord!)
+> 
 > 🌱 Introduce people into the world of programming!
