@@ -1,5 +1,5 @@
 # 🔥 Work in progress 🔥
-This a WIP repository
+This a WIP repository, and this repository was not intended for anyone really, just myself
 
 # Salad API Documentation
 <a href="https://gitmoji.dev">
