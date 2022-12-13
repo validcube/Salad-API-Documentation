@@ -10,7 +10,7 @@ Responses:
 No connected PayPal Account was found.
 ```
 
-> Returns the current status of the API endpoint.
+> Returns the authenticated user's PayPal account
 
 In case if the user don't have a PayPal account or have link their PayPal account to Salad, the API will return `No connected PayPal Account was found.`
 

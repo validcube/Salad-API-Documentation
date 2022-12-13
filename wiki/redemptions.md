@@ -1,6 +1,6 @@
 # Salad API Documentation
 
-## `GET` Redemptions
+## `GET` Reward vault
 `GET` the entire purchase history
 
 URL: 
@@ -36,12 +36,12 @@ Responses:
 ]
 ```
 
-> code: Get the redemptions code for the item.
-> id: Get the redemptions id for the item.
-> name: Get the redemptions name for the item
-> price: Get the redemptions price for the item.
-> status: Get the redemptions status for the item.
-> timestamp: Get the redemptions timestamp for the item.
+* code: Get the redemptions code for the item.
+* id: Get the redemptions id for the item.
+* name: Get the redemptions name for the item
+* price: Get the redemptions price for the item.
+* status: Get the redemptions status for the item.
+* timestamp: Get the redemptions timestamp for the item.
 
 If the user's sAccessToken had expired, the API will return "try refresh token" text instead
 

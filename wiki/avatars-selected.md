@@ -15,10 +15,10 @@ Responses:
 }
 ```
 
-> description: Get the current description of the selected avatar.
-> id: Get the ID of the selected avatar.
-> imageUrl: Get the image URL of the selected avatar.
-> name: Get the name of the selected avatar.
+* description: Get the current description of the selected avatar.
+* id: Get the ID of the selected avatar.
+* imageUrl: Get the image URL of the selected avatar.
+* name: Get the name of the selected avatar.
 
 If the user's sAccessToken had expired, the API will return "try refresh token" text instead
 

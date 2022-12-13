@@ -12,7 +12,7 @@ Responses:
 }
 ```
 
-> lifetimeXp: Get the lifetime or total Xp of the user's account
+* lifetimeXp: Get the lifetime or total Xp of the user's account
 
 If the user's sAccessToken had expired, the API will return "try refresh token" text instead
 

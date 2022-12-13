@@ -13,8 +13,8 @@ Responses:
 }
 ```
 
-> currentBalance: Get the current balance of the user's account
-> lifetimeBalance: Get the lifetime or total balance of the user's account
+* currentBalance: Get the current balance of the user's account
+* lifetimeBalance: Get the lifetime or total balance of the user's account
 
 If the user's sAccessToken had expired, the API will return "try refresh token" text instead
 

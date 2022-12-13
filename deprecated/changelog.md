@@ -13,8 +13,8 @@ Responses:
 }
 ```
 
-> lastUpdated: Get the current datetime of when the changelog was published.
-> url: Get the URL to the changelog.
+* lastUpdated: Get the current datetime of when the changelog was published.
+* url: Get the URL to the changelog.
 
 If the user's sAccessToken had expired, the API will return "try refresh token" text instead
 
