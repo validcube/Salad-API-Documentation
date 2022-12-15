@@ -1,5 +1,5 @@
 # 🔥 Work in progress 🔥
-This a WIP repository
+This a WIP repository, and this repository was not intended for anyone really, just myself
 
 # Salad API Documentation
 <a href="https://gitmoji.dev">
@@ -7,12 +7,11 @@ This a WIP repository
 </a>
 
 ⚠️ Unofficial Salad API Documentation
-> This repository is not officially endorsed by Salad, use it at your own risk!
+> This repository is not officially endorsed by [Salad Technologies©️](https://salad.com/), use it at your own risk!
 
 Hello and welcome to the unofficial Salad API Documentation,
 Most of you probably asking, is this allowed and why create this? Well, yes it is allow, and it because that Salad didn't provide us, developers (actually, nerd) with any documentation on how their API work.
 
 This repository was meant to 
-> ⏩ Accelerate the creation of 3rd-party application that use Salad API! (It would certainly bring a interesting competition! And not to mention, showcasing their work on Salad Discord!)
-> 
-> 🌱 Introduce people into the world of programming!
+* ⏩ Accelerate the creation of 3rd-party application that use Salad API! (It would certainly bring a interesting competition! And not to mention, showcasing their work on Salad Discord!)
+* 🌱 Introduce people into the world of programming!
