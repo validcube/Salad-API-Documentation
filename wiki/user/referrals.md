@@ -36,6 +36,15 @@ Responses:
 ```
 
 > List the users who have used your referral code
+* code: Get the code of your referral code
+* dateEntered: Get the date that the referral code was entered
+* earnedBalance: Get the amount of Salad balance that was 
+* refereeId: Get the referee ID (probably user ID)
+* referralDefinition
+ - balanceThreshold: Get the cap limit of the referee
+ - bonusRate: Get the bonus rate of that referee
+ - referrerBonus: Get the bonus of your code
+* referrerID: Get the ID of the referrer (the user that own the code)
 
 If the user's sAccessToken had expired, the API will return "try refresh token" text instead
 

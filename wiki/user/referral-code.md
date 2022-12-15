@@ -13,6 +13,7 @@ Responses:
 ```
 
 > Show the user's referral code
+* code: Get the code of your referral code
 
 If the user's sAccessToken had expired, the API will return "try refresh token" text instead
 

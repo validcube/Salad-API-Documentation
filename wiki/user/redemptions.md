@@ -36,7 +36,7 @@ Responses:
 ]
 ```
 
-* code: Get the redemptions code for the item.
+* code: Get the redemptions code for the item. (if any)
 * id: Get the redemptions id for the item.
 * name: Get the redemptions name for the item
 * price: Get the redemptions price for the item.

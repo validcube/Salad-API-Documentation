@@ -34,5 +34,5 @@ Responses:
 If the user's sAccessToken had expired, the API will return "try refresh token" text instead
 
 HTTP response status codes
-200	- OK
+200 - OK
 401 - Requires authetication
