@@ -17,5 +17,4 @@ This repository was meant to
 * 🌱 Introduce people into the world of programming!
 
 # License
-Documentation is licensed under CC-BY-SA-4.0 or `Creative Commons Attribution Share Alike 4.0 International`
-All of the files in `example` is licensed under MIT License or `Massachusetts Institute of Technology License`
+Documentation is licensed under CC-BY-SA-4.0 or `Creative Commons Attribution Share Alike 4.0 International` and all of the files in `example` are licensed under MIT License or `Massachusetts Institute of Technology License`
