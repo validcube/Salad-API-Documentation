@@ -15,3 +15,7 @@ Most of you probably asking, is this allowed and why create this? Well, yes it i
 This repository was meant to 
 * ⏩ Accelerate the creation of 3rd-party application that use Salad API! (It would certainly bring a interesting competition! And not to mention, showcasing their work on Salad Discord!)
 * 🌱 Introduce people into the world of programming!
+
+# License
+Documentation is licensed under CC-BY-SA-4.0 or `Creative Commons Attribution Share Alike 4.0 International`
+All of the files in `example` is licensed under MIT License or `Massachusetts Institute of Technology License`
