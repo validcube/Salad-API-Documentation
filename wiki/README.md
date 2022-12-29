@@ -18,7 +18,7 @@
 | Return a list of redemptions (reward vault) | Users | `GET` | https://app-api.salad.io/api/v2/redemptions |
 | Return earning history for the past 30 days | Users | `GET` | https://app-api.salad.io/api/v2/reports/30-day-earning-history |
 | Return a list of unlocked avatars | Users | `GET` | https://app-api.salad.io/api/v2/avatars |
-| Return the user's selected avatar | Users | `GET` | https://app-api.salad.io/api/v2/avatars/selected |
+| Return the user's equipped avatar | Users | `GET` | https://app-api.salad.io/api/v2/avatars/selected |
 | Return a list of unclaimed bonus(es) | Users | `GET` | https://app-api.salad.io/api/v2/bonuses |
 | Return Salad mining ID | Users | `POST` | https://app-api.salad.io/api/v2/machines |
 | Refresh sAccessToken | Auth | `POST` | https://app-api.salad.io/auth/session/refresh |
