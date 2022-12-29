@@ -1,6 +1,7 @@
 # Salad API Documentation
 
 > ⚠️ Deprecation: Salad Seasons is (currently) cancelled.
+
 > 🔧 Recommended: None.
 
 ## `GET` seasons

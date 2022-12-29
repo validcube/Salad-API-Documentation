@@ -1,6 +1,7 @@
 # Salad API Documentation
 
 > ⚠️ Deprecation: Update for this API has stopped since September 24th 2021.
+
 > 🔧 Recommended: Migrate to GitHub `SaladTechnologies/salad-applications`'s release API
 
 ## `GET` changelog.

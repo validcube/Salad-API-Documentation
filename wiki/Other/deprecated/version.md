@@ -1,6 +1,7 @@
 # Salad API Documentation
 
 > ⚠️ Deprecation: Update for this API has stopped since Salad 0.5.6, the last build for macOS.
+
 > 🔧 Recommended: Migrate to GitHub `SaladTechnologies/salad-applications`'s release API.
 
 ## `GET` Application Version
