@@ -29,7 +29,7 @@ Responses:
 ]
 ```
 
-> Get the user's unlocked avatars
+> Get the user's unlocked avatars.
 * description: Get the avatar's description.
 * id: Get the avatar's id.
 * imageUrl: Get the avatar's image URL.

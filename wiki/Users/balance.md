@@ -13,6 +13,7 @@ Responses:
 }
 ```
 
+> Get the user's current & lifetime balance.
 * currentBalance: Get the current balance of the user's account
 * lifetimeBalance: Get the lifetime or total balance of the user's account
 
