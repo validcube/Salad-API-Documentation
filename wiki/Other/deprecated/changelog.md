@@ -17,6 +17,7 @@ Responses:
 }
 ```
 
+> Get the application last updated changelog.
 * lastUpdated: Get the current datetime of when the changelog was published.
 * url: Get the URL to the changelog.
 
