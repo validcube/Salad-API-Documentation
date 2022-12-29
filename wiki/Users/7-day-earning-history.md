@@ -13,7 +13,8 @@ Responses:
 }
 ```
 
-> Get the user's profile information
+> Get the user's last 7-days earning.
+* `timestamp`: Show the user's earning
 
 If the user didn't mine after a week, the API will return `{}` or nothing instead
 

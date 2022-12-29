@@ -13,7 +13,8 @@ Responses:
 }
 ```
 
-> Get the user's profile information
+> Get the user's daily earning. (currently, not estimately)
+* `timestamp`: Show the user's earning
 
 If the user didn't mine after a day, the API will return `{}` or nothing instead
 
