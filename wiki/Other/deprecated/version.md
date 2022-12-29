@@ -7,7 +7,7 @@
 ## `GET` Application Version
 `GET` the current application version for Salad client application.
 
-URL: https://app-api.salad.io/api/v1/notification-banner
+URL: https://app-api.salad.io/api/v1/desktop-app/version
 
 Responses:
 ```json
@@ -18,6 +18,7 @@ Responses:
 }
 ```
 
+> Get the application's version.
 * path: Get the path to download the application.
 * releaseDate: Get the release date of the application.
 * version: Get the version of the application.
