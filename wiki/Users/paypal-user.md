@@ -3,7 +3,7 @@
 ## `GET` paypal/users
 `GET` the PayPal account of the authenticated user.
 
-URL: https://app-api.salad.io/health/ready
+URL: https://app-api.salad.io/api/v2/paypal/users
 
 Responses:
 ```json
