@@ -1,12 +1,14 @@
 # 🔥 Work in progress 🔥
-This a WIP repository, and this repository was not intended for anyone really, just myself
+
+> **Warning** <br>
+> This a WIP repository, and this repository was not intended for anyone really, just myself.
 
 # Salad API Documentation
 <a href="https://gitmoji.dev">
   <img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square" alt="Gitmoji">
 </a>
 
-⚠️ Unofficial Salad API Documentation
+> **Note** <br>
 > This repository is not officially endorsed by [Salad Technologies©️](https://salad.com/), use it at your own risk!
 
 Hello and welcome to the unofficial Salad API Documentation,
