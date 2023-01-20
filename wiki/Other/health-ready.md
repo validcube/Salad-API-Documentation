@@ -10,6 +10,7 @@ Responses:
 Healthy
 ```
 
+> **Note** <br>
 > Returns the current status of the API endpoint.
 
 HTTP response status codes

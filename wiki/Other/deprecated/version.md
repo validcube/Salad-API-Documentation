@@ -1,7 +1,7 @@
 # Salad API Documentation
 
-> ⚠️ Deprecation: Update for this API has stopped since Salad 0.5.6, the last build for macOS.
-
+> **Warning** <br>
+> Deprecation Notice: Update for this API has stopped since Salad 0.5.6, the last build for macOS. <br>
 > 🔧 Recommended: Migrate to GitHub `SaladTechnologies/salad-applications`'s release API.
 
 ## `GET` Application Version
@@ -18,6 +18,7 @@ Responses:
 }
 ```
 
+> **Note** <br>
 > Get the application's version.
 * path: Get the path to download the application.
 * releaseDate: Get the release date of the application.

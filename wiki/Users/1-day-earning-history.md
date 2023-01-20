@@ -13,6 +13,7 @@ Responses:
 }
 ```
 
+> **Note** <br>
 > Get the user's daily earning. (currently, not estimately)
 * `timestamp`: Show the user's earning
 

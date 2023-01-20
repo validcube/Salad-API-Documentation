@@ -10,6 +10,7 @@ Responses:
 Soon TM
 ```
 
+> **Note** <br>
 > Returns the authenticated user's PayPal account
 Soon TM
 

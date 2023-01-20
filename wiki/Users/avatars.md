@@ -29,6 +29,7 @@ Responses:
 ]
 ```
 
+> **Note** <br>
 > Get the user's unlocked avatars.
 * description: Get the avatar's description.
 * id: Get the avatar's id.

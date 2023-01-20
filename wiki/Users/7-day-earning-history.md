@@ -13,6 +13,7 @@ Responses:
 }
 ```
 
+> **Note** <br>
 > Get the user's last 7-days earning.
 * `timestamp`: Show the user's earning
 

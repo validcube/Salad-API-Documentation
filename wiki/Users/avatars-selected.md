@@ -15,6 +15,7 @@ Responses:
 }
 ```
 
+> **Note** <br>
 > Get the user's equipped avatar.
 * description: Get the current description of the selected avatar.
 * id: Get the ID of the selected avatar.

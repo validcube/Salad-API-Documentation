@@ -12,6 +12,7 @@ Responses:
 }
 ```
 
+> **Note** <br>
 > Get user's lifetime XP.
 * lifetimeXp: Get the lifetime or total Xp of the user's account
 

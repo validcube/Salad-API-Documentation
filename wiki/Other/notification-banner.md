@@ -14,6 +14,7 @@ Responses:
 }
 ```
 
+> **Note** <br>
 > Get the notification banner.
 * endDate: Get the expired date for the notification banner.
 * startDate: Get the start date for the notification banner.

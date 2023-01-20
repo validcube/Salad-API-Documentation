@@ -1,7 +1,7 @@
 # Salad API Documentation
 
-> ⚠️ Deprecation: Salad Seasons is (currently) cancelled.
-
+> **Warning** <br>
+> Deprecation Notice: Salad Seasons is cancelled. <br>
 > 🔧 Recommended: None.
 
 ## `GET` seasons
@@ -131,6 +131,7 @@ Responses:
 }
 ```
 
+> **Note** <br>
 > Get the user's stats about the season
 
 If the user's sAccessToken had expired, the API will return "try refresh token" text instead

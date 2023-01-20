@@ -1,7 +1,7 @@
 # Salad API Documentation
 
-> ⚠️ Deprecation: Update for this API has stopped since September 24th 2021.
-
+> **Warning** <br>
+> Deprecation Notice: Update for this API has stopped since September 24th 2021. <br>
 > 🔧 Recommended: Migrate to GitHub `SaladTechnologies/salad-applications`'s release API
 
 ## `GET` changelog.
@@ -17,6 +17,7 @@ Responses:
 }
 ```
 
+> **Note** <br>
 > Get the application last updated changelog.
 * lastUpdated: Get the current datetime of when the changelog was published.
 * url: Get the URL to the changelog.

@@ -35,6 +35,7 @@ Responses:
 ]
 ```
 
+> **Note** <br>
 > List the users who have used your referral code
 * code: Get the code of your referral code
 * dateEntered: Get the date that the referral code was entered

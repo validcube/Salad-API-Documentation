@@ -21,6 +21,7 @@ Responses:
 }
 ```
 
+> **Note** <br>
 > Get the user's profile information
 * email: Get the user's email address.
 * extensions: Get the user's linked 3rd-party account like minecraft, paypal

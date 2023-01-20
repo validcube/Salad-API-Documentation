@@ -10,6 +10,7 @@ Responses:
 (probably) Soon TM
 ```
 
+> **Note** <br>
 > Get the user's profile information.
 Soon TM
 
