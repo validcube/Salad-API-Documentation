@@ -34,8 +34,8 @@ else:
     print('It look like that was successful!')
     response_json = response.json()
     print(f"""
-    Your current balance is {response_json["currentBalance"]}!
-    Your lifetime balance is {response_json["lifetimeBalance"]}!
+    Your current balance is ${response_json["currentBalance"]}!
+    Your lifetime balance is ${response_json["lifetimeBalance"]}!
     """)
 
 print(f'Status code: {response.status_code}')
