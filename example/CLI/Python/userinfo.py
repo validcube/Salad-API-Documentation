@@ -11,7 +11,7 @@ except ImportError:
 print("\033[0;31m!! Please don't leak your access token to anyone !!\033[0m")
 # !!
 
- # Asking for access token... then clear the console
+# Asking for access token... then clear the console
 sAccessToken = input("Please enter your access token: ")
 os.system("cls")
 
@@ -33,7 +33,7 @@ cookies = {
     "sAccessToken": sAccessToken
 }
 
-# Get response from API
+# Get JSON response from API
 profile = requests.get(url=profile_url, headers=headers, cookies=cookies)
 selected_avatar = requests.get(url=selected_avatar_url, headers=headers, cookies=cookies)
 xp = requests.get(url=xp_url, headers=headers, cookies=cookies)
@@ -52,7 +52,6 @@ else:
     referral_code_json = referral_code.json()
     
     print('It look like that was successful!')
-
     print(f"""
     Your username is {profile_json["username"]} and are currently equipped '{selected_avatar_json["name"]}' as their avatar!
 
