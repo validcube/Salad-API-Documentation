@@ -13,5 +13,5 @@ Healthy
 > **Note** <br>
 > Returns the current status of the API endpoint.
 
-HTTP response status codes
+HTTP response status codes <br>
 200	- OK

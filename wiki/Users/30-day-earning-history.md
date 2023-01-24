@@ -21,6 +21,6 @@ If the user didn't mine after a month, the API will return `{}` or nothing inste
 
 If the user's sAccessToken had expired, the API will return "try refresh token" text instead
 
-HTTP response status codes
-200	- OK
+HTTP response status codes <br>
+200	- OK <br>
 401 - Requires authetication
