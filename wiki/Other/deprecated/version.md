@@ -18,14 +18,14 @@ Responses:
 }
 ```
 
+### Explaination
 > **Note** <br>
 > Get the application's version.
 * path: Get the path to download the application.
 * releaseDate: Get the release date of the application.
 * version: Get the version of the application.
 
-If the user's sAccessToken had expired, the API will return "try refresh token" text instead
-
+### Response code
 HTTP response status codes <br>
 200 - OK <br>
 401 - Requires authetication

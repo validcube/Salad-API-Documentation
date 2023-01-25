@@ -13,14 +13,14 @@ Responses:
 }
 ```
 
+### Explaination
 > **Note** <br>
 > Get the user's last 30-days earning.
 * `timestamp`: Show the user's earning
 
 If the user didn't mine after a month, the API will return `{}` or nothing instead
 
-If the user's sAccessToken had expired, the API will return "try refresh token" text instead
-
+### Response code
 HTTP response status codes <br>
 200	- OK <br>
 401 - Requires authetication

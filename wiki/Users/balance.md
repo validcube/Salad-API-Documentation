@@ -13,13 +13,13 @@ Responses:
 }
 ```
 
+### Explaination
 > **Note** <br>
 > Get the user's current & lifetime balance.
 * currentBalance: Get the current balance of the user's account
 * lifetimeBalance: Get the lifetime or total balance of the user's account
 
-If the user's sAccessToken had expired, the API will return "try refresh token" text instead
-
+### Response code
 HTTP response status codes <br>
 200	- OK <br>
 401 - Requires authetication

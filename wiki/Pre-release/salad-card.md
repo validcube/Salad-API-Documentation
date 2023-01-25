@@ -13,13 +13,15 @@ Responses:
 Soon TM
 ```
 
+### Explaination
 > **Note** <br>
 > Get the user's Salad Card.
 
-If the user doesn't have Salad Card, the API will return `[]`
+### Note
+> **Note** <br>
+> If the user doesn't have Salad Card, the API will return `[]`
 
-If the user's sAccessToken had expired, the API will return "try refresh token" text instead
-
+### Response code
 HTTP response status codes <br>
 200	- OK <br>
 401 - Requires authetication

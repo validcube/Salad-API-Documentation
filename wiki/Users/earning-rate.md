@@ -10,13 +10,16 @@ Responses:
 (probably) Soon TM
 ```
 
+### Explaination
 > **Note** <br>
 > Get the user's profile information.
 Soon TM
 
-If the user's sAccessToken had expired, the API will return "try refresh token" text instead
+### Note
+> **Note** <br>
+> If the user doesn't currently have an active earning boost (2x from referral are excluded), the API will return `[]` text or 404 instead
 
+### Response code
 HTTP response status codes <br>
 200	- OK <br>
-401 - Requires authetication <br>
-404 - Not Found
+401 - Requires authetication

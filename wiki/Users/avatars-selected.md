@@ -15,6 +15,7 @@ Responses:
 }
 ```
 
+### Explaination
 > **Note** <br>
 > Get the user's equipped avatar.
 * description: Get the current description of the selected avatar.
@@ -22,8 +23,7 @@ Responses:
 * imageUrl: Get the image URL of the selected avatar.
 * name: Get the name of the selected avatar.
 
-If the user's sAccessToken had expired, the API will return "try refresh token" text instead
-
+### Response code
 HTTP response status codes <br>
 200 - OK <br>
 401 - Requires authetication

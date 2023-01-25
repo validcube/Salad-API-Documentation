@@ -21,6 +21,7 @@ Responses:
 }
 ```
 
+### Explaination
 > **Note** <br>
 > Get the user's profile information
 * email: Get the user's email address.
@@ -32,8 +33,7 @@ Responses:
 * username: Get the username of the authenticated user.
 * viewedReferralOnboarding: Get the user's viewed referral onboarding page. (Use during first sign up phase)
 
-If the user's sAccessToken had expired, the API will return "try refresh token" text instead
-
+### Response code
 HTTP response status codes <br>
 200 - OK <br>
 401 - Requires authetication

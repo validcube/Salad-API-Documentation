@@ -10,11 +10,16 @@ Responses:
 Soon TM
 ```
 
+### Explaination
 > **Note** <br>
 > Returns the authenticated user's PayPal account
 Soon TM
 
-In case if the user don't have a PayPal account or have link their PayPal account to Salad, the API will return `No connected PayPal Account was found.`
+### Note
+> **Note** <br>
+> In case if the user don't have a PayPal account or have link their PayPal account to Salad, the API will return `No connected PayPal Account was found.`
 
+### Response code
 HTTP response status codes <br>
-200	- OK
+200	- OK <br>
+401 - Requires authetication

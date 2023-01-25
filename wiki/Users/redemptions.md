@@ -36,6 +36,7 @@ Responses:
 ]
 ```
 
+### Explaination
 > **Note** <br>
 > Get user's all redeemed items.
 * code: Get the redemptions code for the item. (if any)
@@ -45,8 +46,7 @@ Responses:
 * status: Get the redemptions status for the item.
 * timestamp: Get the redemptions timestamp for the item.
 
-If the user's sAccessToken had expired, the API will return "try refresh token" text instead
-
+### Response code
 HTTP response status codes <br>
 200 - OK <br>
 401 - Requires authetication

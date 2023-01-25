@@ -12,12 +12,12 @@ Responses:
 }
 ```
 
+### Explaination
 > **Note** <br>
 > Get user's lifetime XP.
 * lifetimeXp: Get the lifetime or total Xp of the user's account
 
-If the user's sAccessToken had expired, the API will return "try refresh token" text instead
-
+### Response code
 HTTP response status codes <br>
 200	- OK <br>
 401 - Requires authetication
