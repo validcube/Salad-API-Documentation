@@ -1,6 +1,6 @@
 # Salad API Documentation
 
-## `GET` Reward vault
+## `GET` Redemptions / Reward-vault
 `GET` the entire purchase history
 
 URL: 
