@@ -53,7 +53,7 @@ else:
     
     print('It look like that was successful!')
     print(f"""
-    Your username is {profile_json["username"]} and are currently equipped '{selected_avatar_json["name"]}' as their avatar!
+    Your username is {profile_json["username"]} and currently equipped '{selected_avatar_json["name"]}' as their avatar!
 
     Your lifetime balance is ${round(balance_json["lifetimeBalance"], 2)}
     Right now, your balance is ${round(balance_json["currentBalance"], 2)}!
@@ -63,3 +63,5 @@ else:
     
     Your referral code is {referral_code_json["code"]}
     """)
+
+    # The output response was rounded up to 2 decimal points using 'round(value, 2)'
