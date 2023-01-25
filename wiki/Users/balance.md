@@ -1,6 +1,6 @@
 # Salad API Documentation
 
-## `GET` User Balance
+## `GET` balance
 `GET` the autheticated user's balance
 
 URL: https://app-api.salad.io/api/v1/profile/balance

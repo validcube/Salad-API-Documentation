@@ -1,6 +1,6 @@
 # Salad API Documentation
 
-## `GET` User Balance
+## `GET` referrals
 `GET` the autheticated user's info about referrees
 
 URL: https://app-api.salad.io/api/v1/profile/referrals

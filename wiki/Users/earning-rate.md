@@ -1,6 +1,6 @@
 # Salad API Documentation
 
-## `GET` User Balance
+## `GET` earning rate
 `GET` the autheticated user's earning rate (from bonuses, etc)
 
 URL: https://app-api.salad.io/api/v2/bonuses/earning-rate

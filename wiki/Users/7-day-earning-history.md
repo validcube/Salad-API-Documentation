@@ -1,6 +1,6 @@
 # Salad API Documentation
 
-## `GET` User Balance
+## `GET` 7-day-earning-history
 `GET` the autheticated user's earning history (1 week)
 
 URL: https://app-api.salad.io/api/v2/reports/7-day-earning-history

@@ -1,6 +1,6 @@
 # Salad API Documentation
 
-## `GET` User XP
+## `GET` xp
 `GET` the autheticated user's experiences (or, points!)
 
 URL: https://app-api.salad.io/api/v1/profile/xp

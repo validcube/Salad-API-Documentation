@@ -1,6 +1,6 @@
 # Salad API Documentation
 
-## `GET` User Balance
+## `GET` referral code
 `GET` the autheticated user's referral code
 
 URL: https://app-api.salad.io/api/v1/profile/referral-code
