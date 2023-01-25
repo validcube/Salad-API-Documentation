@@ -131,11 +131,19 @@ Responses:
 }
 ```
 
+### Explaination
 > **Note** <br>
 > Get the user's stats about the season
+* currentLevelId: Get the user's current level
+* endAbsolute: Get the Seasons end date
+* levels: List all the available reward to get
+* levelXp: Get the required XP to reach the next level
+* name: Name of the Seasons
+* nextLevelId: Get the user's next level
+* startAbsolute: Get the Seasons start date
+* totalXp: Get the XP that the user have earned since the start of Seasons
 
-If the user's sAccessToken had expired, the API will return "try refresh token" text instead
-
+### Response code
 HTTP response status codes <br>
 200 - OK <br>
 401 - Requires authetication
