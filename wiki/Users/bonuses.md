@@ -14,6 +14,9 @@ Soon TM
 > **Note** <br>
 > Get the user's list of bonuses that have not been expired
 
+### Accepted cookies
+(required) - sAccessToken
+
 ### Response code
 HTTP response status codes <br>
 200 - OK <br>

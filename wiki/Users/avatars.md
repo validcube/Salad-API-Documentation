@@ -37,6 +37,9 @@ Responses:
 * imageUrl: Get the avatar's image URL.
 * name: Get the avatar's name.
 
+### Accepted cookies
+(required) - sAccessToken
+
 ### Response code
 HTTP response status codes <br>
 200 - OK <br>

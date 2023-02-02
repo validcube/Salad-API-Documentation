@@ -21,6 +21,9 @@ Soon TM
 > **Note** <br>
 > If the user doesn't have Salad Card, the API will return `[]`
 
+### Accepted cookies
+(required) - sAccessToken
+
 ### Response code
 HTTP response status codes <br>
 200	- OK <br>

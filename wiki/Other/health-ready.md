@@ -14,6 +14,9 @@ Healthy
 > **Note** <br>
 > Returns the current status of the API endpoint.
 
+### Accepted cookies
+(required) - sAccessToken
+
 ### Response code
 HTTP response status codes <br>
 200	- OK

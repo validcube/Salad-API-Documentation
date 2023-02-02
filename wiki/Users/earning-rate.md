@@ -19,6 +19,9 @@ Soon TM
 > **Note** <br>
 > If the user doesn't currently have an active earning boost (2x from referral are excluded), the API will return `[]` text or 404 instead
 
+### Accepted cookies
+(required) - sAccessToken
+
 ### Response code
 HTTP response status codes <br>
 200	- OK <br>

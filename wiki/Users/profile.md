@@ -33,6 +33,9 @@ Responses:
 * username: Get the username of the authenticated user.
 * viewedReferralOnboarding: Get the user's viewed referral onboarding page. (Use during first sign up phase)
 
+### Accepted cookies
+(required) - sAccessToken
+
 ### Response code
 HTTP response status codes <br>
 200 - OK <br>

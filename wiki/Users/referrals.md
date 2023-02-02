@@ -48,6 +48,9 @@ Responses:
  - referrerBonus: Get the bonus of your code
 * referrerID: Get the ID of the referrer (the user that own the code)
 
+### Accepted cookies
+(required) - sAccessToken
+
 ### Response code
 HTTP response status codes <br>
 200 - OK <br>

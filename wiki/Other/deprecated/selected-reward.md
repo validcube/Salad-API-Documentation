@@ -21,6 +21,9 @@ Responses:
 > UPDATED: Get the last reward (that you have selected) from the Salad Store
 * rewardId: Reward/item ID
 
+### Accepted cookies
+(required) - sAccessToken
+
 ### Response code
 HTTP response status codes <br>
 200 - OK <br>

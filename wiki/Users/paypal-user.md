@@ -19,6 +19,9 @@ Soon TM
 > **Note** <br>
 > In case if the user don't have a PayPal account or have link their PayPal account to Salad, the API will return `No connected PayPal Account was found.`
 
+### Accepted cookies
+(required) - sAccessToken
+
 ### Response code
 HTTP response status codes <br>
 200	- OK <br>

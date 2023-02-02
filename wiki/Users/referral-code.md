@@ -17,6 +17,9 @@ Responses:
 > Show the user's referral code
 * code: Get the code of your referral code
 
+### Accepted cookies
+(required) - sAccessToken
+
 ### Response code
 HTTP response status codes <br>
 200	- OK <br>

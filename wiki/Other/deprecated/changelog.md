@@ -23,6 +23,9 @@ Responses:
 * lastUpdated: Get the current datetime of when the changelog was published.
 * url: Get the URL to the changelog.
 
+### Accepted cookies
+(required) - sAccessToken
+
 ### Response code
 HTTP response status codes <br>
 200 - OK <br>

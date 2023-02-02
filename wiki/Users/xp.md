@@ -17,6 +17,9 @@ Responses:
 > Get user's lifetime XP.
 * lifetimeXp: Get the lifetime or total Xp of the user's account
 
+### Accepted cookies
+(required) - sAccessToken
+
 ### Response code
 HTTP response status codes <br>
 200	- OK <br>

@@ -20,6 +20,9 @@ Responses:
 
 If the user didn't mine after a day, the API will return `{}` or nothing instead
 
+### Accepted cookies
+(required) - sAccessToken
+
 ### Response code
 HTTP response status codes <br>
 200	- OK <br>

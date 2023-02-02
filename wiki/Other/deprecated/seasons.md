@@ -143,6 +143,9 @@ Responses:
 * startAbsolute: Get the Seasons start date
 * totalXp: Get the XP that the user have earned since the start of Seasons
 
+### Accepted cookies
+(required) - sAccessToken
+
 ### Response code
 HTTP response status codes <br>
 200 - OK <br>

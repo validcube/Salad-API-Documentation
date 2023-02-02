@@ -46,6 +46,9 @@ Responses:
 * status: Get the redemptions status for the item.
 * timestamp: Get the redemptions timestamp for the item.
 
+### Accepted cookies
+(required) - sAccessToken
+
 ### Response code
 HTTP response status codes <br>
 200 - OK <br>

@@ -21,6 +21,9 @@ Responses:
 * startDate: Get the start date for the notification banner.
 * text: Get the text for the notification banner.
 
+### Accepted cookies
+(required) - sAccessToken
+
 ### Response code
 HTTP response status codes <br>
 200 - OK <br>

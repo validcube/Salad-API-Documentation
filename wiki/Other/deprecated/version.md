@@ -25,6 +25,9 @@ Responses:
 * releaseDate: Get the release date of the application.
 * version: Get the version of the application.
 
+### Accepted cookies
+(required) - sAccessToken
+
 ### Response code
 HTTP response status codes <br>
 200 - OK <br>
