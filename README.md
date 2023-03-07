@@ -11,12 +11,13 @@
 > **Note** <br>
 > This repository is not officially endorsed by [Salad Technologies©️](https://salad.com/), use it at your own risk!
 
-Hello and welcome to the unofficial Salad API Documentation,
-Most of you probably asking, is this allowed and why create this? Well, yes it is allow, and it because that Salad didn't provide us, developers (actually, nerd) with any documentation on how their API work.
+Hello and welcome to the unofficial Salad API Documentation!
+
+Most of you are probably asking, "Is this allowed and why create this?" Well, yes, it is allowed. We are doing this because Salad did not provide us, the developers (or, more accurately, the nerds), with any documentation on how their API works.
 
 This repository was meant to 
-* ⏩ Accelerate the creation of 3rd-party application that use Salad API! (It would certainly bring a interesting competition! And not to mention, showcasing their work on Salad Discord!)
+* ⏩ Accelerate the creation of 3rd-party applications that use Salad API! This would certainly bring interesting competition and not to mention showcase their work on the Salad Discord!
 * 🌱 Introduce people into the world of programming!
 
 # License
-Documentation is licensed under CC-BY-SA-4.0 or `Creative Commons Attribution Share Alike 4.0 International` and all of the files in `example` are licensed under MIT License or `Massachusetts Institute of Technology License`
+The documentation are licensed under CC-BY-SA-4.0, also known as the `Creative Commons Attribution Share Alike 4.0 International license`, and all of the files in the example directory are licensed under the MIT License, also known as the `Massachusetts Institute of Technology License`.
