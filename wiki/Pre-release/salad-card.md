@@ -10,12 +10,23 @@ URL: https://app-api.salad.io/api/v2/salad-card/cards
 
 Responses:
 ```json
-Soon TM
+{
+    "cardId": "string",
+    "closed": false,
+    "locked": true,
+    "panMasked": "string",
+    "suspended": false
+}
 ```
 
 ### Explaination
 > **Note** <br>
 > Get the user's Salad Card.
+* cardId: Get the user's card ID
+* closed: Check if the card was `closed`
+* locked: Check if the card was `locked`
+* panMasked: Salad Card Digits
+* suspended: Check if the card was `suspended`
 
 ### Note
 > **Note** <br>
